@@ -1,2 +1,2 @@
-# WEEK04-DAY04-IOS-NOSTORYBOARD-BOILERPLATE
+# iOS Project - No Storyboard
 Boilerplate code as for iOS app without storyboard
